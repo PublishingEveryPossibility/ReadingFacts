@@ -1,2 +1,1 @@
-# VueGame
-Anagram and Math Facts Game
+# Reading Facts
